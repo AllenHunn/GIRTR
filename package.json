@@ -1,11 +1,11 @@
 {
   "name": "girtr",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Simple node app designed to make greaders lives easier. Git -> Install -> Run Tests -> Run",
   "preferGlobal": true,
   "main": "index.js",
   "bin": {
-    "girtr" : "lib/index.js"
+    "girtr": "lib/index.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
